@@ -1,3 +1,5 @@
+// Macro for DnD 5e Divine Smite
+
 (() => {
 
 let maxSpellSlot = 5; //  Highest spell-slot level that may be used.
