@@ -1,4 +1,4 @@
-// Pull the passive health of each token in the current scene and say it as a chat message
+// Pull the passive and max health of each token in the current scene and say it as a chat message
 // Only tested with the 5e System in Foundry.
 // Author: @DaiKnapz, Based on Passive perception community macro Author: @Drunemeton#7955. Based on the original macro by author @Erogroth#7134.
 
