@@ -1,3 +1,5 @@
+// Macro for the Divine Smite that comes with Purpose
+
 (() => {
 
 let maxSpellSlot = 5; //  Highest spell-slot level that may be used.
